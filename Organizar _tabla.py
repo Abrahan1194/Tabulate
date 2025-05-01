@@ -1,7 +1,6 @@
 
 from tabulate import tabulate
 
-# Datos de los usuarios
 usuarios = {
     "1": {
         "nombre": "Daniel",
